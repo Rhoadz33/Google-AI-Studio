@@ -71,7 +71,7 @@ export default function App() {
   const filteredPrices = useMemo(() => {
     return prices.filter(item => {
       const matchesSearch = 
-        item.brand.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        (item.brand || "").toLowerCase().includes(searchQuery.toLowerCase()) ||
         item.variant.toLowerCase().includes(searchQuery.toLowerCase()) ||
         item.category.toLowerCase().includes(searchQuery.toLowerCase());
       
