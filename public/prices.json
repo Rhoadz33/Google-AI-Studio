@@ -1,11 +1,20 @@
 [
   {
-    "id": "1",
-    "name": "Affiliate Product Name",
-    "description": "A short description of the product",
-    "price": 49.99,
-    "category": "Health",
-    "image": "https://via.placeholder.com/150",
-    "url": "https://your-affiliate-link.com"
+    "id": 1,
+    "category": "Supplements",
+    "brand": "Optimum Nutrition",
+    "variant": "Whey Protein",
+    "size": "5 lbs",
+    "srp": 75.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 2,
+    "category": "Fintech",
+    "brand": "GCash",
+    "variant": "Transaction Fee",
+    "size": "N/A",
+    "srp": 15.00,
+    "lastUpdated": "2026-03-30"
   }
 ]
