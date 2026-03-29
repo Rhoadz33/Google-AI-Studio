@@ -1,5 +1,11 @@
-
 [
-  { "id": 1, "name": "Affiliate Product A", "price": 49.99 },
-  { "id": 2, "name": "Affiliate Product B", "price": 29.99 }
+  {
+    "id": "1",
+    "name": "Affiliate Product Name",
+    "description": "A short description of the product",
+    "price": 49.99,
+    "category": "Health",
+    "image": "https://via.placeholder.com/150",
+    "url": "https://your-affiliate-link.com"
+  }
 ]
