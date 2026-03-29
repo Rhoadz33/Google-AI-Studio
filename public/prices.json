@@ -1,20 +1,29 @@
 [
   {
     "id": 1,
-    "category": "Supplements",
-    "brand": "Optimum Nutrition",
-    "variant": "Whey Protein",
-    "size": "5 lbs",
-    "srp": 75.00,
+    "category": "Canned Fish",
+    "brand": "Mega Sardines",
+    "variant": "Tomato Sauce",
+    "size": "155g",
+    "srp": 22.50,
     "lastUpdated": "2026-03-30"
   },
   {
     "id": 2,
-    "category": "Fintech",
-    "brand": "GCash",
-    "variant": "Transaction Fee",
-    "size": "N/A",
-    "srp": 15.00,
+    "category": "Processed Milk",
+    "brand": "Bear Brand",
+    "variant": "Powdered Milk",
+    "size": "320g",
+    "srp": 150.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 3,
+    "category": "Coffee",
+    "brand": "Nescafe",
+    "variant": "Classic",
+    "size": "25g",
+    "srp": 25.00,
     "lastUpdated": "2026-03-30"
   }
 ]
