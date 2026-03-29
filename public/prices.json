@@ -2,10 +2,10 @@
   {
     "id": 1,
     "category": "Canned Fish",
-    "brand": "Mega Sardines",
-    "variant": "Tomato Sauce",
+    "brand": "555 Sardines",
+    "variant": "In Tomato Sauce",
     "size": "155g",
-    "srp": 22.50,
+    "srp": 22.25,
     "lastUpdated": "2026-03-30"
   },
   {
@@ -14,7 +14,7 @@
     "brand": "Bear Brand",
     "variant": "Powdered Milk",
     "size": "320g",
-    "srp": 150.00,
+    "srp": 150.50,
     "lastUpdated": "2026-03-30"
   },
   {
@@ -23,7 +23,61 @@
     "brand": "Nescafe",
     "variant": "Classic",
     "size": "25g",
-    "srp": 25.00,
+    "srp": 24.50,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 4,
+    "category": "Bread",
+    "brand": "Gardenia",
+    "variant": "Classic White Bread",
+    "size": "600g",
+    "srp": 75.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 5,
+    "category": "Instant Noodles",
+    "brand": "Lucky Me!",
+    "variant": "Pancit Canton Original",
+    "size": "60g",
+    "srp": 10.50,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 6,
+    "category": "Detergent Soap",
+    "brand": "Surf",
+    "variant": "Sun Fresh Powder",
+    "size": "1.1kg",
+    "srp": 125.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 7,
+    "category": "Bottled Water",
+    "brand": "Wilkins",
+    "variant": "Distilled Water",
+    "size": "500ml",
+    "srp": 18.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 8,
+    "category": "Candles",
+    "brand": "Liwanag",
+    "variant": "Esperma #03",
+    "size": "20pcs",
+    "srp": 65.00,
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": 9,
+    "category": "Canned Fish",
+    "brand": "Century Tuna",
+    "variant": "Flakes in Oil",
+    "size": "155g",
+    "srp": 38.50,
     "lastUpdated": "2026-03-30"
   }
 ]
