@@ -52,7 +52,7 @@ export default function App() {
   const fetchPrices = async () => {
     setLoading(true);
     try {
-      const response = await fetch('/api/prices');
+      const response = await fetch('/prices.json');
       const data = await response.json();
       if (Array.isArray(data)) {
         setPrices(data);
